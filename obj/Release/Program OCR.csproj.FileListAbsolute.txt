@@ -1,0 +1,16 @@
+C:\Dev\Microsoft Visual Studio\workspace\OCR\bin\Release\x86\leptonica-1.80.0.dll
+C:\Dev\Microsoft Visual Studio\workspace\OCR\bin\Release\x86\tesseract41.dll
+C:\Dev\Microsoft Visual Studio\workspace\OCR\bin\Release\x64\leptonica-1.80.0.dll
+C:\Dev\Microsoft Visual Studio\workspace\OCR\bin\Release\x64\tesseract41.dll
+C:\Dev\Microsoft Visual Studio\workspace\OCR\bin\Release\Program OCR.exe.config
+C:\Dev\Microsoft Visual Studio\workspace\OCR\bin\Release\Program OCR.exe
+C:\Dev\Microsoft Visual Studio\workspace\OCR\bin\Release\Program OCR.pdb
+C:\Dev\Microsoft Visual Studio\workspace\OCR\bin\Release\TallComponents.PDF.Rasterizer.dll
+C:\Dev\Microsoft Visual Studio\workspace\OCR\bin\Release\Tesseract.dll
+C:\Dev\Microsoft Visual Studio\workspace\OCR\bin\Release\TallComponents.PDF.Rasterizer.xml
+C:\Dev\Microsoft Visual Studio\workspace\OCR\obj\Release\Program_OCR.Properties.Resources.resources
+C:\Dev\Microsoft Visual Studio\workspace\OCR\obj\Release\Program OCR.csproj.GenerateResource.cache
+C:\Dev\Microsoft Visual Studio\workspace\OCR\obj\Release\Program OCR.csproj.CoreCompileInputs.cache
+C:\Dev\Microsoft Visual Studio\workspace\OCR\obj\Release\Program OCR.csproj.CopyComplete
+C:\Dev\Microsoft Visual Studio\workspace\OCR\obj\Release\Program OCR.exe
+C:\Dev\Microsoft Visual Studio\workspace\OCR\obj\Release\Program OCR.pdb
